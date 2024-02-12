@@ -1,0 +1,14 @@
+{
+  "name": "sa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shiva.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "shiva",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
